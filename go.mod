@@ -1,4 +1,4 @@
-module go-html-toolkit
+module github.com/LeeviKopakkala/go-html-toolkit
 
 go 1.23.4
 
