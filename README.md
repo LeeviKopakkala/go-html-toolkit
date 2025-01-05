@@ -33,7 +33,7 @@ package main
 import (
     "fmt"
     "log"
-    "github.com/LeeviKopakkala/go-html-toolkit/htmlutils"
+    htmlutils "github.com/LeeviKopakkala/go-html-toolkit"
 )
 
 func main() {
