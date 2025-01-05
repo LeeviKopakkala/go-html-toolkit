@@ -9,7 +9,7 @@ import (
 
 	"golang.org/x/net/html"
 
-	"github.com/LeeviKopakkala/go-html-toolkit"
+	htmlutils "go-html-toolkit"
 )
 
 func TestFileToHtml(t *testing.T) {
