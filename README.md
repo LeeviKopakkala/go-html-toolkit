@@ -6,7 +6,9 @@
 
 ## Installation
 
-Ensure your Go environment is set up and simply import `htmlutils` into your project. Use it as a local package or include it as part of your module.
+Download the module: `go get -u github.com/LeeviKopakkala/go-html-toolkit@latest`
+
+Use in your Go file: `htmlutils "github.com/LeeviKopakkala/go-html-toolkit"`
 
 ---
 
