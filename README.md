@@ -1,6 +1,6 @@
-# htmlutils
+# go-html-toolkit
 
-`htmlutils` is a lightweight Go package for working with HTML documents. It provides functions to load HTML from files or URLs and search for elements using tags, attributes, or IDs.
+`go-html-toolkit` is a lightweight Go package for working with HTML documents. It provides functions to load HTML from files or URLs and search for elements using tags, attributes, or IDs.
 
 ---
 
